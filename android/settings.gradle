@@ -1,0 +1,3 @@
+rootProject.name = 'ideavotingapp'
+
+include ':app'
